@@ -1,0 +1,1406 @@
+[
+  {
+    "id": 1,
+    "note": "Eng yangi tarix fani mustaqillik yillaridagi islohotlar va jamiyatdagi o'zgarishlarni chuqur o'rgatishni maqsad qiladi.",
+    "question": "Eng yangi tarix fani nima maqsadda o‘qitiladi?",
+    "options": {
+      "A": "Mustaqillik davrigacha bo‘lgan tub islohotlarning mazmun-mohiyatini singdirish",
+      "B": "Talaba yoshlarga O‘zbekistonning qadimgi davridan mustaqillik davrigacha bo‘lgan tarixi zamonaviy jahon tarixining ajralmas qismi ekanligini anglatish",
+      "C": "Mustabid tuzum, sovetlar hukmronligi davrida mamlakatimizda yuz bergan muhim o‘zgarishlarni singdirish",
+      "D": "Yangi bosqichidagi tarixiy jarayonlar to‘g‘risida bilim va tushunchalarni chuqurlashtirish, mustaqillik yillarida yuz bergan tub islohotlarning mazmun-mohiyatini singdirish"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 2,
+    "note": "1992-yil 10-dekabrda O‘zbekiston Respublikasining Davlat madhiyasi qabul qilingan.",
+    "question": "1992-yil 10-dekabrda O‘zbekiston Respublikasining Oliy Kengashning XI sessiyasida qaysi davlat ramzi to‘g‘risidagi qonun qabul qilingan?",
+    "options": {
+      "A": "“O‘zbekiston Respublikasi Davlat bayrog‘i to‘g‘risida”",
+      "B": "“O‘zbekiston Respublikasi Davlat madhiyasi to‘g‘risida”",
+      "C": "“O‘zbekiston Respublikasi Davlat gerbi to‘g‘risida”",
+      "D": "“O‘zbekiston Respublikasi Davlat Konstitutsiyasi tuzish to‘g‘risida”"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 3,
+    "note": "Mustaqillik xalqimizga o'z taqdirini o'zi belgilash va milliy davlatchilikni tiklash huquqini berdi.",
+    "question": "Oʻzbekiston davlat mustaqilligining asosiy tarixiy ahamiyati nimada?",
+    "options": {
+      "A": "Markazlashgan boshqaruvning kuchayishida",
+      "B": "Milliy suverenitet va o‘z taqdirini o‘zi belgilash imkoniyatida",
+      "C": "Harbiy salohiyatning oshishida",
+      "D": "Hududiy kengayishda"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 4,
+    "note": "O'lim jazosi 2008-yil 1-yanvardan boshlab butunlay bekor qilingan.",
+    "question": "Оʻzbekiston Respublikasida оʻlim jazosini bekor qilish tоʻgʻrisida”gi Farmoniga asosan, qachondan o'lim jazosi bekor qilindi?",
+    "options": {
+      "A": "2009-yil 1-yanvaridan",
+      "B": "2007-yil 1-yanvaridan",
+      "C": "2005-yil 1-yanvaridan",
+      "D": "2008-yil 1-yanvaridan"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 5,
+    "note": "Konstitutsiya davlatning asosiy qonuni bo'lib, uning bosh maqsadi inson huquqlari va erkinliklarini kafolatlashdir.",
+    "question": "Oʻzbekiston Konstitutsiyasining asosiy vazifasi qaysi javobda to‘g‘ri ko‘rsatilgan?",
+    "options": {
+      "A": "Siyosiy partiyalar faoliyatini cheklash",
+      "B": "Fuqarolarning huquq va erkinliklarini kafolatlash",
+      "C": "Iqtisodiyotni markazlashtirish",
+      "D": "Faqat davlat organlarini tartibga solish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 6,
+    "note": "Demokratik davlatlarda hokimiyat qonun chiqaruvchi, ijro etuvchi va sud hokimiyatiga bo'linadi.",
+    "question": "Oʻzbekiston Respublikasida davlat hokimiyati qanday prinsiplarga asoslanadi?",
+    "options": {
+      "A": "Hokimiyatning yagona markazda jamlanishiga",
+      "B": "Hokimiyatlar bo‘linishi prinsipiga",
+      "C": "Harbiy boshqaruvga",
+      "D": "Partiyaviy ustuvorlikka"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 7,
+    "note": "Ko'ppartiyaviylik jamiyatda siyosiy raqobat va fikrlar xilma-xilligini ta'minlaydi.",
+    "question": "Ko‘ppartiyaviylik tizimining joriy etilishi nimani ta’minladi?",
+    "options": {
+      "A": "Siyosiy raqobat va fikrlar xilma-xilligini",
+      "B": "Bitta partiya ustuvorligini",
+      "C": "Siyosiy faoliyatni cheklashni",
+      "D": "Davlat nazoratining kuchayishini"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 8,
+    "note": "Fuqarolik jamiyatida nodavlat tashkilotlar davlatdan mustaqil ravishda faoliyat yuritadi.",
+    "question": "Fuqarolik jamiyati tushunchasi nimani anglatadi?",
+    "options": {
+      "A": "Davlat organlarining ustunligini",
+      "B": "Jamiyatning davlatdan mustaqil faoliyat yuritishini",
+      "C": "Faqat siyosiy partiyalar faoliyatini",
+      "D": "Harbiy tuzilmalar tizimini"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 9,
+    "note": "Mirzo Ulug'bek rasadxonasi Samarqand shahridagi Ko'hak tepaligida joylashgan.",
+    "question": "Ulug‘bek rasadxonasi Respublikamizning qaysi hududida joylashgan?",
+    "options": {
+      "A": "Buxoro",
+      "B": "Toshkent",
+      "C": "Navoiy",
+      "D": "Samarqand"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 10,
+    "note": "Prezidentlikka nomzod barcha talablarga javob berishi kerak (35 yosh, til bilish, 10 yil yashash). Savolda 'noto'g'ri' qator so'ralgan, lekin hamma bandlar aslida to'g'ri.",
+    "question": "Prezident nomzodiga qo‘yilgan shartlari noto‘g‘ri berilgan qatorni toping?",
+    "options": {
+      "A": "35 yoshdan kichik bo‘lmasligi",
+      "B": "Davlat tilini mukammal bilishi",
+      "C": "Kamida O‘zbekistonda 10 yil yashagan bo‘lishi kerak",
+      "D": "Barcha javoblar to‘g‘ri"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 11,
+    "note": "O'zbekiston 1993-yilda UNESCO (YUNESKO) tashkilotiga a'zo bo'lib kirdi.",
+    "question": "1993-yil 23-oktyabrda O‘zbekiston qaysi xalqaro tashkilotga a’zo bo‘ldi?",
+    "options": {
+      "A": "YUNESKO",
+      "B": "Birlashgan millatlar tashkiloti",
+      "C": "Mustaqil davlatlar hamdo‘stligi",
+      "D": "NATO"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 12,
+    "note": "Shavkat Mirziyoyev ilk rasmiy tashrifini 2017-yilda Turkmanistonga amalga oshirgan.",
+    "question": "Shavkat Mirziyoyevning prezidentlik birinchi rasmiy tashrifi qaysi davlatga bo‘lgan?",
+    "options": {
+      "A": "Turkiya",
+      "B": "Qozog‘iston",
+      "C": "Turkmaniston",
+      "D": "Rossiya"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 13,
+    "note": "2017-yil 30-iyun kuni Kamolot YoIH o'rnida O'zbekiston yoshlar ittifoqi tashkil etildi.",
+    "question": "O‘zbekistonda 2017-yil 30-iyunda qaysi tashkilot tuzildi?",
+    "options": {
+      "A": "O‘zbekiston yoshlar ittifoqi",
+      "B": "Sudyalar Oliy kengashi",
+      "C": "Xotin-qizlar qo‘mitasi",
+      "D": "Kasaba uyushmalari federatsiyasi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 14,
+    "note": "O'zbekiston Respublikasining Davlat gerbi 1992-yil 2-iyulda qabul qilingan.",
+    "question": "1992-yil 2-iyulda Oliy Kengashning XI sessiyasida qaysi davlat ramzi to‘g‘risidagi qonun qabul qilingan?",
+    "options": {
+      "A": "“O‘zbekiston Respublikasi Davlat bayrog‘i to‘g‘risida”",
+      "B": "“O‘zbekiston Respublikasi Davlat madhiyasi to‘g‘risida”",
+      "C": "“O‘zbekiston Respublikasi Davlat gerbi to‘g‘risida”",
+      "D": "“O‘zbekiston Respublikasi Davlat Konstitutsiyasi tuzish to‘g‘risida”"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 15,
+    "note": "1991-yil 31-avgustda 'Davlat mustaqilligi asoslari to'g'risida'gi qonun qabul qilindi va mustaqillik e'lon qilindi.",
+    "question": "Qachon 'O‘zbekiston Respublikasining Davlat mustaqilligi asoslari to‘g‘risida'gi qonun qabul qilindi?",
+    "options": {
+      "A": "1990-yil 31-avgustda",
+      "B": "1991-yil 23-avgustda",
+      "C": "1991-yil 1-sentabr",
+      "D": "1991-yil 31-avgustda"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 16,
+    "note": "O'zbekiston tarixi telekanali 2019-yil 1-sentyabrdan o'z faoliyatini boshlagan.",
+    "question": "Prezident Qaroriga ko‘ra 2019-yil 1-sentyabrdan qaysi telekanal ishga tushirilgan?",
+    "options": {
+      "A": "“O‘zbekiston tarixi”",
+      "B": "“Aqlvoy”",
+      "C": "“Ma’naviyat va ma’rifat”",
+      "D": "“O‘zbekiston 24”"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 17,
+    "note": "SSSRdagi 'Qayta qurish' (Perestroyka) siyosatining asosiy muallifi Mixail Gorbachevdir.",
+    "question": "“Qayta qurish” siyosatining tashabbuskorini toping?",
+    "options": {
+      "A": "Leonid Brejnev",
+      "B": "Sharof Rashidov",
+      "C": "Mixail Gorbachev",
+      "D": "Nikita Xrushchev"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 18,
+    "note": "1989-yil Farg'onada yuz bergan millatlararo nizo 'Farg'ona fojeasi' deb ataladi.",
+    "question": "1989-yil may-iyun oylaridagi mojarolar tarixga qanday nom bilan kirgan?",
+    "options": {
+      "A": "“Farg‘ona fojeasi”",
+      "B": "“Qo‘qon qirg‘ini”",
+      "C": "“Andijon qo‘zg‘aloni”",
+      "D": "“Toshotar voqeasi”"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 19,
+    "note": "Gdlyan va Ivanov boshchiligidagi guruh 'Paxta ishi' doirasida 40 mingdan ortiq kishini so'roq qilgan.",
+    "question": "“Paxta ishi” bo‘yicha jami qancha odam qiynoq ostiga olinib, so‘roq qilingan?",
+    "options": {
+      "A": "5 mingga yaqin",
+      "B": "40 mingga yaqin",
+      "C": "25 mingdan ortiq",
+      "D": "15 mingga yaqin"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 20,
+    "note": "Mustaqillik asoslari to'g'risidagi qonun 17 ta moddadan iborat bo'lgan.",
+    "question": "“O‘zbekiston Respublikasining Davlat mustaqilligi asoslari to‘g‘risida”gi qonun necha moddadan iborat?",
+    "options": {
+      "A": "46 modda",
+      "B": "24 modda",
+      "C": "17 modda",
+      "D": "36 modda"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 21,
+    "note": "To'g'ri javob: B. O‘zbekiston tashqi siyosati boshqa davlatlar bilan o‘zaro manfaatli va tinchliksevar hamkorlikka asoslanadi.",
+    "question": "Oʻzbekiston tashqi siyosatining asosiy tamoyili qaysi javobda to‘g‘ri aks etgan?",
+    "options": {
+      "A": "Harbiy ittifoqlarga qo‘shilish",
+      "B": "Ochiqlik va o‘zaro manfaatli hamkorlik",
+      "C": "Yakkalanib rivojlanish",
+      "D": "Kuch ishlatish siyosati"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 22,
+    "note": "To'g'ri javob: B. O'zbek modeli iqtisodiyotni xalq manfaatlarini hisobga olgan holda bosqichma-bosqich isloh qilishni nazarda tutadi.",
+    "question": "“O‘zbek modeli”ning bosh g‘oyasi nimaga asoslanadi?",
+    "options": {
+      "A": "Tezkor xususiylashtirishga",
+      "B": "Bozor iqtisodiyotiga bosqichma-bosqich o‘tishga",
+      "C": "Tashqi iqtisodiy qaramlikka",
+      "D": "Faqat davlat mulkiga"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 23,
+    "note": "To'g'ri javob: B. 1990-yil 20-iyunda qabul qilingan Mustaqillik Deklaratsiyasi mustaqillik yo'lidagi birinchi huquqiy qadam edi.",
+    "question": "O‘zbekistonda “Mustaqillik Deklaratsiyasi” qachon qabul qilingan edi?",
+    "options": {
+      "A": "1991-yil 29-dekabrda",
+      "B": "1990-yil 20-iyunda",
+      "C": "1991-yil 31-avgustda",
+      "D": "1992-yil 2-martda"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 24,
+    "note": "To'g'ri javob: D. Referendum — bu eng muhim davlat qarorlarini qabul qilish uchun o'tkaziladigan umumxalq ovoz berish jarayonidir.",
+    "question": "Davlat va jamiyat hayotining eng muhim masalalari xalq muhokamasiga qo‘yilishi qanday ataladi?",
+    "options": {
+      "A": "Umumxalq saylovi",
+      "B": "Ombudsman",
+      "C": "Muqobil saylov",
+      "D": "Referendum"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 25,
+    "note": "To'g'ri javob: A. O'zbekistonning ramzi bo'lgan Moviy, Oq va Yashil rangli bayroq 1991-yil 18-noyabrda tasdiqlangan.",
+    "question": "1991-yil 18-noyabrda O‘zbekiston Respublikasining qaysi davlat ramzi qabul qilingan?",
+    "options": {
+      "A": "O‘zbekiston Respublikasi Davlat bayrog‘i",
+      "B": "O‘zbekiston Respublikasi Davlat madhiyasi",
+      "C": "O‘zbekiston Respublikasi Davlat gerbi",
+      "D": "O‘zbekiston Respublikasi Davlat Konstitutsiyasi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 26,
+    "note": "To'g'ri javob: A. O‘zbekiston Xalq Demokratik Partiyasi (XDP) 1991-yil noyabrda tashkil etilgan.",
+    "question": "O‘zbekiston Xalq Demokratik Partiyasi qachon tashkil etilgan?",
+    "options": {
+      "A": "1991-yil noyabrda",
+      "B": "1992-yil fevralda",
+      "C": "1994-yil mayda",
+      "D": "1996-yil sentabrda"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 27,
+    "note": "To'g'ri javob: D. O'zLiDeP partiyasining nashriyoti hisoblangan 'XXI asr' gazetasi partiya g'oyalarini targ'ib qiladi.",
+    "question": "O‘zbekiston Liberal-demokratik partiyasining ijtimoiy-siyosiy gazetasini aniqlang?",
+    "options": {
+      "A": "Jamiyat",
+      "B": "O‘zbekiston ovozi",
+      "C": "Xalq so‘zi",
+      "D": "XXI asr"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 28,
+    "note": "To'g'ri javob: A. Xalq deputatlari Kengashi joylarda qonun chiqaruvchi va nazorat qiluvchi mahalliy vakillik organi hisoblanadi.",
+    "question": "O‘zbekiston Respublikasida Mahalliy vakillik organlari bu ...",
+    "options": {
+      "A": "xalq deputatlari Kengashi",
+      "B": "hokimlar",
+      "C": "oqsoqollar",
+      "D": "mahallalar"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 29,
+    "note": "To'g'ri javob: B. Liberalizatsiya iqtisodiyotda erkin bozor qoidalarini joriy etish va davlat nazoratini kamaytirishni anglatadi.",
+    "question": "Davlatning iqtisodiy hayotga aralashuvini cheklash va bozorlarning ochilishi qanday ataladi?",
+    "options": {
+      "A": "investitsiya",
+      "B": "liberalizatsiya",
+      "C": "biznes",
+      "D": "inflyatsiya"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 30,
+    "note": "To'g'ri javob: D. Inflyatsiya — pulning qadrsizlanishi va tovarlar narxining umumiy o'sishi jarayonidir.",
+    "question": "Pulning qadr-qimmati va xarid qobiliyatining pasayib ketishi iqtisodiyotda qanday ataladi?",
+    "options": {
+      "A": "investitsiya",
+      "B": "divident",
+      "C": "biznes",
+      "D": "inflyatsiya"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 31,
+    "note": "To'g'ri javob: C. 2009-yil O'zbekistonda 'Qishloq taraqqiyoti va farovonligi yili' deb e'lon qilingan.",
+    "question": "O‘zbekistonda yillarning nomlanishi qaysi javobda noto‘g‘ri keltirilgan?",
+    "options": {
+      "A": "2003 - Obod mahalla yili",
+      "B": "1998 - Oila yili",
+      "C": "2009 - Ijtimoiy himoya yili",
+      "D": "2005 - Sihat-salomatlik yili"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 32,
+    "note": "To'g'ri javob: A. 1993-yilda ta'sis etilgan 'Sog'lom avlod uchun' ordeni mustaqil O'zbekistonning birinchi ordenidir.",
+    "question": "O‘zbekiston Respublikasida birinchi bo‘lib ta’sis etilgan ordenni toping.",
+    "options": {
+      "A": "Sog‘lom avlod uchun",
+      "B": "O‘zbekiston qahramoni",
+      "C": "Mehnat shuhrati ordeni",
+      "D": "Mustaqillik ordeni"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 33,
+    "note": "To'g'ri javob: A. Xalq bilan muloqot tizimini yaxshilash maqsadida ushbu qabulxonalar 2016-yilda tashkil etildi.",
+    "question": "Prezident Xalq qabulxonalari nechanchi yilda tashkil etildi?",
+    "options": {
+      "A": "2016 yilda",
+      "B": "2013 yilda",
+      "C": "2010 yilda",
+      "D": "2019 yilda"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 34,
+    "note": "To'g'ri javob: A. 1991-yilda Alisher Navoiy tavalludining 550 yilligi mamlakat miqyosida keng nishonlangan.",
+    "question": "1991-yilda yurtimizda qaysi allomaning 550 yilligi nishonlangan edi?",
+    "options": {
+      "A": "Alisher Navoiy",
+      "B": "Zahiriddin Muhamad Bobur",
+      "C": "Mirzo Ulug‘bek",
+      "D": "Ahmad Farg‘oniy"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 35,
+    "note": "Savoldagi varinatlar xato! Javobi: 1997-yil 27-noyabr – Oʻzbekiston Respublikasi Vazirlar Mahkamasi „Ahmad alFargʻoniy tavalludining 1200-yilligini nishonlash toʻgʻrisida“ qaror qabul qildi.",
+    "question": "Yurtimizda Ahmad Farg‘oniyning 1200 yillik yubileyi qachon nishonlangan edi?",
+    "options": {
+      "A": "1996-yilda",
+      "B": "2000-yilda",
+      "C": "1998-yilda",
+      "D": "2001-yilda"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 36,
+    "note": "To'g'ri javob: B. Xususiy mulk bozor iqtisodiyotining asosi bo'lib, u raqobat va erkin savdoni shakllantiradi.",
+    "question": "Xususiy mulkning rivojlanishi nimaga xizmat qiladi?",
+    "options": {
+      "A": "Ijtimoiy tengsizlikni kuchaytirishga",
+      "B": "Bozor munosabatlarini shakllantirishga",
+      "C": "Davlat mulkini yo‘q qilishga",
+      "D": "Siyosiy beqarorlikka"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 37,
+    "note": "To'g'ri javob: A. Sharq taronalari musiqa festivali an'anaviy ravishda Samarqand shahridagi Registon maydonida o'tkaziladi.",
+    "question": "An’anaviy “Sharq taronalari” xalqaro musiqa festivali qaysi shaharda o‘tkazib kelinmoqda?",
+    "options": {
+      "A": "Samarqand",
+      "B": "Andijon",
+      "C": "Toshkent",
+      "D": "Shahrisabz"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 38,
+    "note": "To'g'ri javob: A. 1997-yilda Xiva va Buxoro shaharlarining 2500 yillik yubileylari xalqaro miqyosda nishonlandi.",
+    "question": "Yurtimizda Xiva va Buxoro shaharlarining 2500 yillik yubileylari qachon nishonlangan?",
+    "options": {
+      "A": "1997-yilda",
+      "B": "2000-yilda",
+      "C": "1998-yilda",
+      "D": "2001-yilda"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 39,
+    "note": "To'g'ri javob: B. Milliy g'oya xalqni yagona vatanparvarlik va taraqqiyot maqsadlari yo'lida jipslashtirishga xizmat qiladi.",
+    "question": "Milliy g‘oya va mafkuraning asosiy vazifasi nimadan iborat?",
+    "options": {
+      "A": "Jamiyatni qat’iy nazorat qilish",
+      "B": "Aholini umumiy maqsadlar atrofida birlashtirish",
+      "C": "Faqat yoshlar tarbiyasi bilan shug‘ullanish",
+      "D": "Siyosiy qarashlarni cheklash"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 40,
+    "note": "To'g'ri javob: A. 2007-yilda Samarqand shahrining 2750 yilligi UNESCO doirasida tantanali ravishda nishonlangan.",
+    "question": "Yurtimizda qaysi shaharning 2750 yillik yubileyi 2007-yilda nishonlangan?",
+    "options": {
+      "A": "Samarqand",
+      "B": "Buxoro",
+      "C": "Qarshi",
+      "D": "Shahrisabz"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 41,
+    "note": "To'g'ri javob: A. Temuriylar tarixi davlat muzeyi Amir Temur tavalludining 660 yilligi munosabati bilan 1996-yilda ochilgan.",
+    "question": "1996-yil Toshkentda tashkil etilgan muassasani belgilang?",
+    "options": {
+      "A": "Temuriylar tarixi davlat muzeyi",
+      "B": "Turkiston tarixi muzeyi",
+      "C": "O‘zbekiston milliy kutubxonasi",
+      "D": "Shahidlar xotirasi xiyoboni"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 42,
+    "note": "To'g'ri javob: B. Jaloliddin Manguberdining 800 yillik yubileyi 1999-yilda keng nishonlangan.",
+    "question": "1999-yilda quyidagi qaysi tarixiy shaxsning tavalludining 800 yilligi nishonlangan?",
+    "options": {
+      "A": "Najmiddin Kubro",
+      "B": "Jaloliddin Manguberdi",
+      "C": "Amir Temur",
+      "D": "Imom Buxoriy"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 43,
+    "note": "To'g'ri javob: B. 30-iyun — O'zbekiston yoshlar ittifoqi tashkil etilgan kun munosabati bilan Yoshlar kuni deb belgilangan.",
+    "question": "Qaysi sana O‘zbekistonda “Yoshlar kuni” sifatida nishonlanadi?",
+    "options": {
+      "A": "21-may",
+      "B": "30-iyun",
+      "C": "14-sentyabr",
+      "D": "1-oktyabr"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 44,
+    "note": "To'g'ri javob: B. “Mard o‘g‘lon” davlat mukofoti Prezident qarori bilan 2017-yilda ta’sis etilgan.",
+    "question": "Prezident qarori bilan “Mard o‘g‘lon” davlat mukofoti qachon ta’sis etildi?",
+    "options": {
+      "A": "1999-yil",
+      "B": "2017-yil",
+      "C": "2011-yil",
+      "D": "2023-yil"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 45,
+    "note": "To'g'ri javob: C. X asrda Buxoroda ochilgan Farjak madrasasi mintaqadagi eng qadimiy ilm dargohlaridan biri hisoblanadi.",
+    "question": "X asrda Movaraunnahrda birinchi ochilgan madrasa nomini belgilang",
+    "options": {
+      "A": "Faqihlar madrasasi",
+      "B": "Somoniylar madrasasi",
+      "C": "Farjak madrasasi",
+      "D": "Ma’mun akademiyasi"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 46,
+    "note": "To'g'ri javob: D. O'zbekiston milliy valyutasi — so'm 1994-yil 1-iyuldan boshlab muomalaga kiritilgan.",
+    "question": "O‘zbekiston milliy pul birligi – so‘m qachon muomalaga kiritilgan?",
+    "options": {
+      "A": "1992-yildan",
+      "B": "1990-yildan",
+      "C": "1996-yildan",
+      "D": "1994-yildan"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 47,
+    "note": "Xiva shahriga Ming Gumbaz nomi berilgan.",
+    "question": "1998-yilda YUNESKO tomonidan O’zbekistonning qaysi shahriga “Ming gumbaz shahri” deb nom berilgan?",
+    "options": {
+      "A": "Samarqand",
+      "B": "Buxoro",
+      "C": "Xiva",
+      "D": "Shahrisabz"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 48,
+    "note": "To'g'ri javob: A. Oliy Majlis O'zbekiston Respublikasining oliy davlat vakillik va qonun chiqaruvchi organi hisoblanadi.",
+    "question": "O‘zbekistonda qonun chiqaruvchi organ qaysi?",
+    "options": {
+      "A": "Oliy majlis",
+      "B": "Vazirlar mahkamasi",
+      "C": "Sud organlari",
+      "D": "Prezident Administratsiyasi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 49,
+    "note": "To'g'ri javob: A. 1989-yil 21-oktabrda 'Davlat tili haqida'gi Qonun qabul qilingan.",
+    "question": "O‘zbek tiliga Davlat tili maqomi qachon berilgan?",
+    "options": {
+      "A": "1989-yil",
+      "B": "1990-yil",
+      "C": "1991-yil",
+      "D": "1992-yil"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 50,
+    "note": "To'g'ri javob: C. O'zbekiston Konstitutsiyasiga ko'ra, 18 yoshga to'lgan fuqarolar saylash huquqiga ega.",
+    "question": "Necha yoshdan boshlab fuqarolar saylovda qatnashishlari mumkin?",
+    "options": {
+      "A": "16 yosh",
+      "B": "17 yosh",
+      "C": "18 yosh",
+      "D": "20 yosh"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 51,
+    "note": "To'g'ri javob: A. Ushbu asar O'zbekistonning Birinchi Prezidenti Islom Karimov qalamiga mansub.",
+    "question": "“Yuksak ma’naviyat – yengilmas kuch” asari kimga tegishli?",
+    "options": {
+      "A": "Islom Karimov",
+      "B": "Shavkat Mirziyoyev",
+      "C": "Sharof Rashidov",
+      "D": "Mahmudxo‘ja Behbudiy"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 52,
+    "note": "To'g'ri javob: B. O'zbekiston 5 ta davlat (Qozog'iston, Qirg'iziston, Tojikiston, Afg'oniston, Turkmaniston) bilan chegaradosh.",
+    "question": "O‘zbekiston Respublikasi nechta davlat bilan chegaradosh?",
+    "options": {
+      "A": "4 ta",
+      "B": "5 ta",
+      "C": "6 ta",
+      "D": "7 ta"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 53,
+    "note": "To'g'ri javob: A. Siyosiy partiyalar va nodavlat tashkilotlarni ro'yxatga olish Adliya vazirligi zimmasidadir.",
+    "question": "Siyosiy partiyalar qaysi vazirlik tomonidan ro‘yxatga olinadi?",
+    "options": {
+      "A": "Adliya vazirligi",
+      "B": "Ekologiya vazirligi",
+      "C": "Madaniyat vazirligi",
+      "D": "Tashqi ishlar vazirligi"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 54,
+    "note": "To'g'ri javob: D. O'zbekiston Respublikasining umumiy maydoni 448,9 ming kvadrat kilometrni tashkil etadi.",
+    "question": "O‘zbekiston Respublikasining hududi qancha?",
+    "options": {
+      "A": "460,4 ming km. kv.",
+      "B": "346,6 ming km. kv.",
+      "C": "576,7 ming km. kv.",
+      "D": "448,9 ming km. kv."
+    },
+    "answer": "D"
+  },
+  {
+    "id": 55,
+    "note": "To'g'ri javob: C. 1998-yilda buyuk muhaddis Imom al-Buxoriy tavalludining 1125 yilligi nishonlandi va majmuasi ochildi.",
+    "question": "Yurtimizda Imom al-Buxoriyning 1125 yillik yubileyi qachon nishonlangan edi?",
+    "options": {
+      "A": "1996-yilda",
+      "B": "2000-yilda",
+      "C": "1998-yilda",
+      "D": "2001-yilda"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 56,
+    "note": "To'g'ri javob: B. Iqtisodiy islohotlarning pirovard maqsadi xalq farovonligi va barqaror taraqqiyotdir.",
+    "question": "Iqtisodiy islohotlarning asosiy maqsadi nimadan iborat?",
+    "options": {
+      "A": "Davlat nazoratini to‘liq saqlab qolish",
+      "B": "Barqaror iqtisodiy o‘sish va aholi farovonligini ta’minlash",
+      "C": "Xorijiy kapitalni cheklash",
+      "D": "Rejali iqtisodiyotga qaytish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 57,
+    "note": "To'g'ri javob: A. Xorazm Ma'mun akademiyasi 1997-yilda Prezident farmoni bilan qayta tiklangan.",
+    "question": "Xorazm Fanlar akademiyasi (Ma’mun Akademiyasi) qachon qayta tiklangan?",
+    "options": {
+      "A": "1997-yilda",
+      "B": "1996-yilda",
+      "C": "1999-yilda",
+      "D": "2001-yilda"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 58,
+    "note": "To'g'ri javob: B. Qonun ustuvorligi — jamiyatda barcha insonlar qonun oldida teng ekanligini bildiradi.",
+    "question": "Qonun ustuvorligi prinsipi nimani anglatadi?",
+    "options": {
+      "A": "Mansabdor shaxslar ustunligini",
+      "B": "Qonunning barcha uchun teng amal qilishini",
+      "C": "Faqat sud organlari faoliyatini",
+      "D": "Davlat manfaatining ustuvorligini"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 59,
+    "note": "To'g'ri javob: B. Sud-huquq islohotlarining markazida inson huquqlarini ta'minlash va adolatni qaror toptirish turadi.",
+    "question": "Sud-huquq tizimidagi islohotlar nimaga qaratilgan?",
+    "options": {
+      "A": "Jazolash tizimini kuchaytirishga",
+      "B": "Inson huquqlarini himoya qilishga",
+      "C": "Sud organlarini ijro hokimiyatiga bo‘ysundirishga",
+      "D": "Sud jarayonlarini yopiq qilishga"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 60,
+    "note": "To'g'ri javob: B. Mahalla — o'zini o'zi boshqarishning noyob tizimi bo'lib, ijtimoiy birdamlikni ta'minlaydi.",
+    "question": "Mahalla institutining jamiyatdagi o‘rni nimada?",
+    "options": {
+      "A": "Davlat boshqaruvini to‘liq amalga oshirishda",
+      "B": "O‘zini o‘zi boshqarish va ijtimoiy hamkorlikda",
+      "C": "Siyosiy partiyalarni nazorat qilishda",
+      "D": "Faqat an’anaviy marosimlarni o‘tkazishda"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 61,
+    "note": "To'g'ri javob: B. Ta’lim islohotlaridan ko'zlangan asosiy natija zamonaviy mehnat bozorida raqobatbardosh kadrlar tayyorlashdir.",
+    "question": "Ta’lim sohasidagi islohotlarning asosiy maqsadi nima?",
+    "options": {
+      "A": "Ta’limni pullik qilish",
+      "B": "Raqobatbardosh kadrlar tayyorlash",
+      "C": "Eski ta’lim tizimini saqlab qolish",
+      "D": "Ta’limni cheklash"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 62,
+    "note": "To'g'ri javob: B. Yangi O‘zbekiston strategiyasi 'Inson qadri uchun' tamoyili asosida demokratik jamiyat qurishni maqsad qiladi.",
+    "question": "Yangi Oʻzbekiston taraqqiyot g‘oyasining asosiy mazmuni nimada?",
+    "options": {
+      "A": "Avvalgi tizimni to‘liq inkor etishda",
+      "B": "Inson qadrini ulug‘lash va ochiq jamiyat qurishda",
+      "C": "Faqat iqtisodiy foydani ko‘zlashda",
+      "D": "Tashqi siyosatdan voz kechishda"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 63,
+    "note": "To'g'ri javob: B. Erkin OAV davlat organlari faoliyati ustidan jamoatchilik nazoratini va shaffoflikni ta'minlaydi.",
+    "question": "OAV erkinligining ta’minlanishi nimaga xizmat qiladi?",
+    "options": {
+      "A": "Davlat sirlarini oshkor etishga",
+      "B": "Jamiyatda ochiqlik va shaffoflikni ta’minlashga",
+      "C": "Siyosiy beqarorlikka",
+      "D": "Axborot cheklovlariga"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 64,
+    "note": "To'g'ri javob: B. Korrupsiyaga qarshi kurash xalqning davlatga bo'lgan ishonchini oshirish va adolatni qaror toptirish uchun olib boriladi.",
+    "question": "Korrupsiyaga qarshi kurash siyosatining maqsadi nima?",
+    "options": {
+      "A": "Mansabdorlar vakolatini kengaytirish",
+      "B": "Adolat va ishonch muhitini yaratish",
+      "C": "Davlat boshqaruvini sekinlashtirish",
+      "D": "Xususiy sektorni cheklash"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 65,
+    "note": "To'g'ri javob: B. Davlatning ijtimoiy siyosati har bir fuqaro uchun munosib turmush sharoitini yaratishga qaratilgan.",
+    "question": "Ijtimoiy siyosatning ustuvor yo‘nalishi nimadan iborat?",
+    "options": {
+      "A": "Aholini qat’iy nazorat qilish",
+      "B": "Ijtimoiy himoya va turmush darajasini oshirish",
+      "C": "Faqat byudjetni tejash",
+      "D": "Aholi sonini cheklash"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 66,
+    "note": "To'g'ri javob: B. Yoshlar siyosati navqiron avlodning salohiyatini yuzaga chiqarish va ularni vatanparvarlik ruhida tarbiyalashni ko'zlaydi.",
+    "question": "Yoshlar siyosatining asosiy maqsadi nima?",
+    "options": {
+      "A": "Yoshlarni siyosatdan chetlashtirish",
+      "B": "Barkamol va faol avlodni tarbiyalash",
+      "C": "Yoshlar faoliyatini qisman cheklash",
+      "D": "Faqat sport bilan shug‘ullantirish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 67,
+    "note": "To'g'ri javob: B. O'zbekistonning jahon sahnasidagi o'rni qo'shni davlatlar bilan do'stona va o'zaro manfaatli aloqalar tufayli mustahkamlanmoqda.",
+    "question": "Oʻzbekistonning xalqaro nufuzining oshishi nimaning natijasidir?",
+    "options": {
+      "A": "Yopiq siyosat yuritilishining",
+      "B": "Tinchlikparvar va konstruktiv tashqi siyosatning",
+      "C": "Harbiy kuchga tayanishning",
+      "D": "Boshqa davlatlardan ajralib qolishning"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 68,
+    "note": "To'g'ri javob: B. Mustaqillikning ilk kunlaridan boshlab asosiy maqsad inson huquqlari ustuvor bo'lgan huquqiy demokratik davlat qurish etib belgilangan.",
+    "question": "Mustaqillikdan keyingi davlat qurilishining asosiy yo‘nalishi qaysi javobda to‘g‘ri aks etgan?",
+    "options": {
+      "A": "Totalitar boshqaruvni saqlab qolish",
+      "B": "Huquqiy demokratik davlat barpo etish",
+      "C": "Harbiy boshqaruvga o‘tish",
+      "D": "Avtoritar tuzumni kuchaytirish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 69,
+    "note": "To'g'ri javob: B. Davlatning bosh islohotchi bo'lishi ijtimoiy larzalarsiz, tartibli ravishda bozor iqtisodiyotiga o'tishni ta'minladi.",
+    "question": "Bozor iqtisodiyotiga o‘tishda davlatning bosh islohotchi bo‘lishi nimani anglatadi?",
+    "options": {
+      "A": "Iqtisodiyotni faqat davlat yuritishini",
+      "B": "Islohotlarni tartibli va bosqichma-bosqich olib borishni",
+      "C": "Xususiy sektorni cheklashni",
+      "D": "Tashqi iqtisodiy aloqalardan voz kechishni"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 70,
+    "note": "To'g'ri javob: B. Liberallashtirish — bu iqtisodiyotda davlat aralashuvini kamaytirish va erkin bozor qoidalariga yo'l ochishdir.",
+    "question": "Iqtisodiyotni liberallashtirish jarayonining mohiyati nimadan iborat?",
+    "options": {
+      "A": "Davlat nazoratini kuchaytirish",
+      "B": "Bozor mexanizmlarini keng joriy etish",
+      "C": "Rejali iqtisodiyotga qaytish",
+      "D": "Xorijiy investitsiyalarni cheklash"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 71,
+    "note": "To'g'ri javob: B. Tadbirkorlikni qo'llab-quvvatlash orqali aholi bandligini ta'minlash va mamlakat yalpi ichki mahsulotini oshirish ko'zlanadi.",
+    "question": "Tadbirkorlik faoliyatini qo‘llab-quvvatlashning asosiy maqsadi nima?",
+    "options": {
+      "A": "Raqobatni cheklash",
+      "B": "Yangi ish o‘rinlari yaratish va iqtisodiy faollikni oshirish",
+      "C": "Davlat monopoliyasini kuchaytirish",
+      "D": "Ijtimoiy sohani qisqartirish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 72,
+    "note": "To'g'ri javob: B. Fuqarolarning davlat boshqaruvidagi ishtiroki va o'z fikrini erkin bildirishi demokratik jamiyatning muhim belgisidir.",
+    "question": "Fuqarolarning siyosiy faolligi oshishi nimaning belgisi hisoblanadi?",
+    "options": {
+      "A": "Davlat boshqaruvidagi inqirozning",
+      "B": "Demokratik jarayonlar rivojlanishining",
+      "C": "Markazlashuv kuchayishining",
+      "D": "Siyosiy beqarorlikning"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 73,
+    "note": "To'g'ri javob: B. Saylov tizimidagi islohotlar har bir ovozning ahamiyatini oshirish va adolatli saylovlar o'tkazishga qaratilgan.",
+    "question": "Saylov tizimidagi islohotlar nimaga xizmat qiladi?",
+    "options": {
+      "A": "Nomzodlar sonini kamaytirishga",
+      "B": "Fuqarolarning erkin xohish-irodasini ta’minlashga",
+      "C": "Saylovlarda faqat bitta partiya qatnashishiga",
+      "D": "Saylov jarayonini murakkablashtirishga"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 74,
+    "note": "To'g'ri javob: B. Parlament nazorati hukumat faoliyatining qonuniy va samarali bo'lishini ta'minlaydigan muhim mexanizmdir.",
+    "question": "Parlament nazoratining kuchayishi nimani ta’minlaydi?",
+    "options": {
+      "A": "Qonun ijrosining sustlashishini",
+      "B": "Ijro hokimiyati ustidan muvozanat va nazoratni",
+      "C": "Sud hokimiyatining cheklanishini",
+      "D": "Siyosiy partiyalar faoliyatining pasayishini"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 75,
+    "note": "To'g'ri javob: B. Davlat organlari xalq uchun ochiq bo'lsa, korrupsiya xavfi kamayadi va xalqning davlatga ishonchi ortadi.",
+    "question": "Davlat boshqaruvida ochiqlik va shaffoflikning ahamiyati nimada?",
+    "options": {
+      "A": "Davlat sirlarini oshkor etishda",
+      "B": "Jamoatchilik ishonchini mustahkamlashda",
+      "C": "Boshqaruvni sekinlashtirishda",
+      "D": "Nazoratni kamaytirishda"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 76,
+    "note": "To'g'ri javob: B. Ushbu siyosat chekka qishloq va tumanlarda ham poytaxtdagidek zamonaviy sharoitlar yaratishni maqsad qilgan.",
+    "question": "Hududlarni kompleks rivojlantirish siyosatining maqsadi nima?",
+    "options": {
+      "A": "Faqat poytaxtni rivojlantirish",
+      "B": "Hududlar o‘rtasidagi ijtimoiy-iqtisodiy tafovutni kamaytirish",
+      "C": "Qishloq aholisini ko‘chirish",
+      "D": "Sanoatni cheklash"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 77,
+    "note": "To'g'ri javob: B. 'Hech kim e'tibordan chetda qolmasligi kerak' tamoyili asosida muhtoj qatlamlarga manzilli yordam berish ko'zlanadi.",
+    "question": "Ijtimoiy himoya tizimini kuchaytirish nimaga qaratilgan?",
+    "options": {
+      "A": "Faqat byudjet xarajatlarini oshirishga",
+      "B": "Aholining zaif qatlamlarini qo‘llab-quvvatlashga",
+      "C": "Mehnat bozorini cheklashga",
+      "D": "Ijtimoiy faollikni pasaytirishga"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 78,
+    "note": "To'g'ri javob: B. Sudlar hech kimga bo'ysunmasdan faqat qonunga tayansa, fuqarolarning haq-huquqlari to'liq himoyalanadi.",
+    "question": "Sud hokimiyatining mustaqilligi nimani kafolatlaydi?",
+    "options": {
+      "A": "Sudlarning ijro hokimiyatiga bo‘ysunishini",
+      "B": "Adolatli va xolis sud qarorlarini",
+      "C": "Sud jarayonlarining yopiq bo‘lishini",
+      "D": "Jazolash tizimining ustuvorligini"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 79,
+    "note": "To'g'ri javob: B. Huquqiy madaniyat yuqori bo'lgan jamiyatda jinoyatchilik kamayadi va tartib-intizom qaror topadi.",
+    "question": "Huquqiy madaniyatni yuksaltirishning asosiy natijasi nima?",
+    "options": {
+      "A": "Qonunlarga befarqlikni kuchaytirish",
+      "B": "Fuqarolarning qonunlarga hurmatini oshirish",
+      "C": "Jazolarning ko‘payishini",
+      "D": "Huquqiy normalarning murakkablashishini"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 80,
+    "note": "To'g'ri javob: B. Ma'naviy siyosat ajdodlar merosini saqlash bilan birga, dunyoviy bilimlarni ham egallashni targ'ib qiladi.",
+    "question": "Ma’naviy-ma’rifiy siyosatning asosiy vazifasi nimadan iborat?",
+    "options": {
+      "A": "Jamiyatni bir xil fikrlashga majburlash",
+      "B": "Milliy va umuminsoniy qadriyatlarni uyg‘un rivojlantirish",
+      "C": "Faqat diniy tarbiyani kuchaytirish",
+      "D": "Madaniyatni cheklash"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 81,
+    "note": "To'g'ri javob: B. Diniy bag'rikenglik jamiyatdagi turli din vakillari orasida tinchlik va o'zaro hurmatni ta'minlaydi.",
+    "question": "Diniy bag‘rikenglik siyosati nimani ta’minlaydi?",
+    "options": {
+      "A": "Bitta din ustuvorligini",
+      "B": "Turli e’tiqod vakillari o‘rtasida totuvlikni",
+      "C": "Diniy faoliyatni taqiqlashni",
+      "D": "Diniy nizolarni kuchaytirishni"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 82,
+    "note": "To'g'ri javob: B. Modernizatsiyadan maqsad — ta'limni jahon talablariga moslashtirish va bilimli yoshlarni tarbiyalashdir.",
+    "question": "Ta’lim tizimini modernizatsiya qilishdan ko‘zlangan maqsad nima?",
+    "options": {
+      "A": "Ta’lim sifatini pasaytirish",
+      "B": "Zamonaviy bilim va ko‘nikmalarga ega kadrlar tayyorlash",
+      "C": "An’anaviy bilimlarni butunlay inkor etish",
+      "D": "Ta’limni faqat nazariy qilish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 83,
+    "note": "To'g'ri javob: B. Innovatsiyalar iqtisodiyotning samaradorligini oshiradi va uni xalqaro bozorda raqobatbardosh qiladi.",
+    "question": "Ilm-fan va innovatsiyalarni rivojlantirish nimaga xizmat qiladi?",
+    "options": {
+      "A": "Iqtisodiy qaramlikni kuchaytirishga",
+      "B": "Raqobatbardosh iqtisodiyot yaratishga",
+      "C": "Texnologik orqada qolishga",
+      "D": "Ishsizlikni oshirishga"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 84,
+    "note": "To'g'ri javob: B. Tashqi aloqalar orqali mamlakatga yangi texnologiyalar va xorijiy sarmoyalar kirib keladi.",
+    "question": "Tashqi iqtisodiy aloqalarni kengaytirishning asosiy foydasi nimada?",
+    "options": {
+      "A": "Ichki bozorni cheklashda",
+      "B": "Investitsiya va texnologiyalarni jalb etishda",
+      "C": "Milliy ishlab chiqarishni kamaytirishda",
+      "D": "Savdo aloqalarini qisqartirishda"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 85,
+    "note": "To'g'ri javob: B. Rivojlangan transport tizimi hududlar o'rtasida tovar va xizmatlar almashinuvini tezlashtiradi.",
+    "question": "Transport va kommunikatsiya infratuzilmasini rivojlantirish nimani ta’minlaydi?",
+    "options": {
+      "A": "Hududlararo aloqalarni cheklashni",
+      "B": "Iqtisodiy integratsiya va harakatchanlikni",
+      "C": "Faqat tashqi savdoni kamaytirishni",
+      "D": "Aholi migratsiyasini to‘xtatishni"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 86,
+    "note": "To'g'ri javob: B. Ekologik siyosat tabiatni asrash va kelajak avlod uchun toza muhit qoldirishga xizmat qiladi.",
+    "question": "Ekologik siyosatning asosiy maqsadi nima?",
+    "options": {
+      "A": "Sanoat rivojini to‘xtatish",
+      "B": "Atrof-muhitni muhofaza qilish va barqaror rivojlanish",
+      "C": "Tabiiy resurslardan cheksiz foydalanish",
+      "D": "Ekologik muammolarni inkor etish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 87,
+    "note": "To'g'ri javob: B. Fuqarolar boshqaruvda qatnashsa, davlat organlarining mas'uliyati va ishlash samaradorligi ortadi.",
+    "question": "Fuqarolarning davlat boshqaruvidagi ishtiroki nimani kuchaytiradi?",
+    "options": {
+      "A": "Boshqaruvdagi byurokratiyani",
+      "B": "Jamoatchilik nazorati va mas’uliyatni",
+      "C": "Markazlashuvni",
+      "D": "Siyosiy befarqlikni"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 88,
+    "note": "To'g'ri javob: B. Ochiq muloqot xalqning dardini eshitish va mavjud kamchiliklarni birgalikda bartaraf etish imkonini beradi.",
+    "question": "Ochiq muloqot siyosatining jamiyat uchun ahamiyati nimada?",
+    "options": {
+      "A": "Tanqidni cheklashda",
+      "B": "Muammolarni aniqlash va hal etishda",
+      "C": "Jamoatchilik fikrini inkor etishda",
+      "D": "Axborotni yashirishda"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 89,
+    "note": "To'g'ri javob: B. Raqamlashtirish korrupsiyani kamaytiradi va xizmat ko'rsatish vaqtini bir necha barobar qisqartiradi.",
+    "question": "Davlat xizmatlarini raqamlashtirish nimani ta’minlaydi?",
+    "options": {
+      "A": "Qog‘ozbozlikni ko‘paytirishni",
+      "B": "Qulaylik, tezkorlik va shaffoflikni",
+      "C": "Fuqarolar murojaatini cheklashni",
+      "D": "Nazoratning pasayishini"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 90,
+    "note": "To'g'ri javob: B. Kambag'allikni qisqartirish — bu odamlarga boqimandalikni emas, balki ish o'rni va daromad topish yo'llarini o'rgatishdir.",
+    "question": "Kambag‘allikni qisqartirish siyosatining asosiy mazmuni nimada?",
+    "options": {
+      "A": "Ijtimoiy yordamni bekor qilishda",
+      "B": "Aholining daromad manbalarini kengaytirishda",
+      "C": "Faqat statistikani o‘zgartirishda",
+      "D": "Ijtimoiy tengsizlikni kuchaytirishda"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 91,
+    "note": "To'g'ri javob: B. Gender tenglik jamiyatning barcha sohalarida xotin-qizlarning huquq va imkoniyatlarini erkaklar bilan tenglashtirishdir.",
+    "question": "Gender tenglik siyosati nimaga qaratilgan?",
+    "options": {
+      "A": "Ayollar faoliyatini cheklashga",
+      "B": "Erkaklar va ayollar uchun teng imkoniyatlar yaratishga",
+      "C": "Faqat oilaviy munosabatlarga",
+      "D": "Mehnat bozorini qisqartirishga"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 92,
+    "note": "To'g'ri javob: B. Bu huquq har bir fuqaroga o'z muammosini davlat idoralari orqali qonuniy hal qilish kafolatini beradi.",
+    "question": "Fuqarolarning murojaat qilish huquqi nimani anglatadi?",
+    "options": {
+      "A": "Davlat organlariga ta’sir o‘tkaza olmaslikni",
+      "B": "O‘z muammolari yuzasidan davlatga murojaat qilish imkonini",
+      "C": "Faqat sudlarga murojaat qilishni",
+      "D": "Murojaatlarni cheklashni"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 93,
+    "note": "To'g'ri javob: B. Ko'p millatli yurtimizda o'zaro totuvlik tinchlik va taraqqiyotning eng muhim shartidir.",
+    "question": "Millatlararo totuvlik siyosatining ahamiyati nimada?",
+    "options": {
+      "A": "Bitta millat ustuvorligini ta’minlashda",
+      "B": "Jamiyat barqarorligi va birlikni mustahkamlashda",
+      "C": "Milliy farqlarni kuchaytirishda",
+      "D": "Ijtimoiy ziddiyatlarni oshirishda"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 94,
+    "note": "To'g'ri javob: B. Madaniy meros — bu xalqning o'tmishi va kimligini anglatuvchi bebaho boylikdir.",
+    "question": "Madaniy merosni asrash nimaga xizmat qiladi?",
+    "options": {
+      "A": "Zamonaviylikni inkor etishga",
+      "B": "Milliy o‘zlik va tarixiy xotirani saqlashga",
+      "C": "Madaniy rivojlanishni cheklashga",
+      "D": "Faqat turizmni rivojlantirishga"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 95,
+    "note": "To'g'ri javob: B. Tinchlik bo'lmagan joyda iqtisodiy o'sish va ijtimoiy farovonlikka erishib bo'lmaydi.",
+    "question": "Tinchlik va barqarorlikni ta’minlash siyosatining asosiy maqsadi nima?",
+    "options": {
+      "A": "Harbiy ustunlikka erishish",
+      "B": "Barqaror taraqqiyot uchun sharoit yaratish",
+      "C": "Ichki nizolarni kuchaytirish",
+      "D": "Xalqaro munosabatlardan chekinish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 96,
+    "note": "To'g'ri javob: B. O'zbekiston barcha davlatlar bilan teng huquqli va do'stona munosabatlar o'rnatish tarafdoridir.",
+    "question": "Oʻzbekistonning xalqaro maydondagi faol ishtiroki nimani ko‘rsatadi?",
+    "options": {
+      "A": "Yakkalanish siyosatini",
+      "B": "Ochiq va konstruktiv tashqi siyosatni",
+      "C": "Harbiy agressiyani",
+      "D": "Diplomatik passivlikni"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 97,
+    "note": "To'g'ri javob: B. Islohotlarning muvaffaqiyati qonunlarning ishlashi va xalqning bu islohotlarda qanchalik faol ishtirok etishiga bog'liq.",
+    "question": "Islohotlar natijadorligini oshirish nimaga bog‘liq?",
+    "options": {
+      "A": "Faqat davlat qarorlariga",
+      "B": "Qonun ustuvorligi va jamoatchilik ishtirokiga",
+      "C": "Tashqi bosimlarga",
+      "D": "Islohotlarni sekinlashtirishga"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 98,
+    "note": "To'g'ri javob: B. Bu turli tillarda so'zlashuvchi xalqlarning yagona vatan bayrog'i ostida hamjihat yashashini anglatadi.",
+    "question": "Millatlararo totuvlik tushunchasi nimani anglatadi?",
+    "options": {
+      "A": "Bir millatning ustunligini",
+      "B": "Turli millat vakillarining o‘zaro hurmat va hamjihatligini",
+      "C": "Milliy farqlarni yo‘q qilishni",
+      "D": "Milliy madaniyatni cheklashni"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 99,
+    "note": "To'g'ri javob: C. Bag'rikenglik — bu o'zgalarning diniy qarashlariga hurmat bilan qarash va ularga o'z e'tiqodini erkin bajarishga imkon berishdir.",
+    "question": "Diniy bag‘rikenglikning asosiy mohiyati nimada?",
+    "options": {
+      "A": "Dinni jamiyatdan chetlashtirishda",
+      "B": "Faqat bitta dinga e’tibor qaratishda",
+      "C": "Turli diniy e’tiqodlarga hurmat bilan munosabatda bo‘lishda",
+      "D": "Diniy faoliyatni nazorat qilishda"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 100,
+    "note": "To'g'ri javob: C. Jamiyatdagi barqarorlik barcha insonlarning millati va dinidan qat'i nazar teng huquqli bo'lishiga tayanadi.",
+    "question": "Ko‘p millatli jamiyat barqarorligi nimaga bog‘liq?",
+    "options": {
+      "A": "Millatlararo raqobatga",
+      "B": "Kuch ishlatish siyosatiga",
+      "C": "Teng huquqlilik va o‘zaro ishonchga",
+      "D": "Madaniy ajralishga"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 101,
+    "note": "To'g'ri javob: C. Millatlararo totuvlik siyosatining bosh maqsadi — jamiyatda tinchlik va ijtimoiy barqarorlikni saqlashdir.",
+    "question": "Millatlararo totuvlik siyosatining asosiy maqsadi nima?",
+    "options": {
+      "A": "Milliy farqlarni keskinlashtirish",
+      "B": "Jamiyatda nizolarni kuchaytirish",
+      "C": "Ijtimoiy barqarorlikni ta’minlash",
+      "D": "Milliy madaniyatlarni cheklash"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 102,
+    "note": "To'g'ri javob: B. Diniy tashkilotlar qonunlarga rioya qilgan holda va jamiyatda o'zaro bag'rikenglik ruhida faoliyat yuritishlari shart.",
+    "question": "Diniy tashkilotlarning jamiyatdagi faoliyati nimaga asoslanishi kerak?",
+    "options": {
+      "A": "Siyosiy ustuvorlikka",
+      "B": "Qonuniylik va bag‘rikenglikka",
+      "C": "Davlat boshqaruviga aralashishga",
+      "D": "Boshqa dinlarni inkor etishga"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 103,
+    "note": "To'g'ri javob: B. Konstitutsiya barcha fuqarolarning millati, tili va dinidan qat'i nazar teng huquqliligini kafolatlaydi.",
+    "question": "Konstitutsiyaviy tenglik prinsipi nimani kafolatlaydi?",
+    "options": {
+      "A": "Faqat asosiy millat huquqlarini",
+      "B": "Fuqarolarning millatidan qat’i nazar tengligini",
+      "C": "Milliy cheklovlarni",
+      "D": "Ijtimoiy tabaqalanishni"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 104,
+    "note": "To'g'ri javob: B. Madaniyatlararo muloqot xalqlarning bir-birini yaxshiroq tushunishi va milliy qadriyatlarni hurmat qilishiga xizmat qiladi.",
+    "question": "Millatlararo munosabatlarda madaniyatlararo muloqotning ahamiyati nimada?",
+    "options": {
+      "A": "Farqlarni chuqurlashtirishda",
+      "B": "O‘zaro tushunish va hurmatni kuchaytirishda",
+      "C": "Madaniy izolyatsiyada",
+      "D": "Raqobatni oshirishda"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 105,
+    "note": "To'g'ri javob: B. Diniy bag'rikenglik turli e'tiqod egalari o'rtasida ixtilof emas, balki o'zaro murosasozlikni ta'minlaydi.",
+    "question": "Diniy bag‘rikenglik jamiyatda nimani ta’minlaydi?",
+    "options": {
+      "A": "Diniy ustunlikni",
+      "B": "E’tiqodlar o‘rtasidagi murosani",
+      "C": "Diniy qarama-qarshilikni",
+      "D": "Dindan voz kechishni"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 106,
+    "note": "To'g'ri javob: B. Ta'lim maskanlarida yoshlarga bag'rikenglik va o'zga millat vakillariga hurmat ruhida tarbiya berish totuvlikning asosi hisoblanadi.",
+    "question": "Millatlararo totuvlikni mustahkamlashda ta’limning roli nimada?",
+    "options": {
+      "A": "Milliy tafovutlarni oshirishda",
+      "B": "Bag‘rikenglik va hurmat ruhini shakllantirishda",
+      "C": "Tarixni inkor etishda",
+      "D": "Milliy o‘zlikni yo‘qotishda"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 107,
+    "note": "To'g'ri javob: B. Ekstremistik g'oyalarga qarshi eng kuchli qurol — bu 'Jaholatga qarshi ma'rifat' tamoyili asosida odamlarning bilimini oshirishdir.",
+    "question": "Diniy ekstremizmga qarshi kurashning eng samarali yo‘li qaysi?",
+    "options": {
+      "A": "Kuch ishlatish",
+      "B": "Ma’rifat va ogohlikni oshirish",
+      "C": "Dinni taqiqlash",
+      "D": "Axborotni cheklash"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 108,
+    "note": "To'g'ri javob: A. Bu siyosat barcha millatlarning teng huquqliligi va bir-birini qo'llab-quvvatlashi (hamjihatlik) tamoyillariga tayanadi.",
+    "question": "Millatlararo totuvlik siyosati qaysi qadriyatlarga tayanadi?",
+    "options": {
+      "A": "Tenglik, hurmat va hamjihatlikka",
+      "B": "Ustunlik va raqobatga",
+      "C": "Ajralish va yakkalanishga",
+      "D": "Majburlashga"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 109,
+    "note": "To'g'ri javob: B. Diniy erkinlik — har bir insonning o'zi xohlagan dinga e'tiqod qilish yoki hech qaysi dinga e'tiqod qilmaslik huquqidir.",
+    "question": "Diniy erkinlik tushunchasi nimani anglatadi?",
+    "options": {
+      "A": "Diniy tashkilotlarning davlatni boshqarishini",
+      "B": "Har kimning e’tiqodini erkin tanlash huquqini",
+      "C": "Diniy majburiyatni",
+      "D": "Bitta dinga bo‘ysunishni"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 110,
+    "note": "To'g'ri javob: B. Davlat jamiyatda qonun ustuvorligini, adolatni va barcha millatlar uchun teng imkoniyatlarni yaratsa, nizolarning oldi olinadi.",
+    "question": "Millatlararo nizolarning oldini olishda davlatning asosiy vazifasi nima?",
+    "options": {
+      "A": "Milliy farqlarni e’tiborsiz qoldirish",
+      "B": "Teng huquqlilik va adolatni ta’minlash",
+      "C": "Ayrim guruhlarga imtiyoz berish",
+      "D": "Nizolarni kuch bilan bostirish"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 111,
+    "note": "To'g'ri javob: B. Bag'rikenglik — bu o'zgalarning madaniyati, turmush tarzi va fikrlarini sabr-toqat hamda hurmat bilan qabul qilishdir.",
+    "question": "Bag‘rikenglik madaniyati nimani bildiradi?",
+    "options": {
+      "A": "O‘z qarashidan voz kechishni",
+      "B": "Boshqacha fikr va e’tiqodlarni hurmat qilishni",
+      "C": "Fikrlar xilma-xilligini inkor etishni",
+      "D": "Ijtimoiy befarqlikni"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 112,
+    "note": "To'g'ri javob: B. Jamiyatda bag'rikenglik yo'qolsa, odamlar o'rtasida ishonchsizlik va turli xil ijtimoiy to'qnashuvlar kelib chiqadi.",
+    "question": "Diniy bag‘rikenglikning buzilishi qanday oqibatlarga olib keladi?",
+    "options": {
+      "A": "Jamiyat barqarorligining mustahkamlanishiga",
+      "B": "Ijtimoiy ziddiyat va nizolarga",
+      "C": "Iqtisodiy o‘sishga",
+      "D": "Madaniy yuksalishga"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 113,
+    "note": "To'g'ri javob: B. Har bir millatning o'z tili va urf-odatlarini asrab-avaylashi jamiyatdagi umumiy madaniy boylikni oshiradi.",
+    "question": "Milliy madaniyatlarni rivojlantirish siyosati nimaga xizmat qiladi?",
+    "options": {
+      "A": "Millatlararo raqobatni kuchaytirishga",
+      "B": "Madaniy xilma-xillik va totuvlikni mustahkamlashga",
+      "C": "Yagona madaniyatni majburlashga",
+      "D": "An’analarni yo‘qotishga"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 114,
+    "note": "To'g'ri javob: B. E'tiqod erkinligining buzilishi — bu biror bir dinni majburan qabul qildirish yoki o'zga e'tiqodlarni kamsitishdir.",
+    "question": "Diniy bag‘rikenglik tamoyili qaysi holatda buziladi?",
+    "options": {
+      "A": "Turli e’tiqod vakillari tinch yashaganda",
+      "B": "Bir din boshqasiga majburan singdirilganda",
+      "C": "Qonuniy diniy faoliyat olib borilganda",
+      "D": "E’tiqod erkinligi ta’minlanganda"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 115,
+    "note": "To'g'ri javob: C. Ommaviy axborot vositalari xalqqa tinchlik g'oyalarini yetkazish va turli millatlar do'stligini yoritishda muhim vositadir.",
+    "question": "Millatlararo totuvlikni saqlashda ommaviy axborot vositalarining vazifasi nima?",
+    "options": {
+      "A": "Mojarolarni avj oldirish",
+      "B": "Nafratli g‘oyalarni tarqatish",
+      "C": "Bag‘rikenglik va hamjihatlikni targ‘ib qilish",
+      "D": "Axborotni yashirish"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 116,
+    "note": "To'g'ri javob: B. Bag'rikeng jamiyatning eng muhim ko'rsatkichi — bu turli din va millat vakillarining o'zaro hamjihatlikda hayot kechirishidir.",
+    "question": "Diniy bag‘rikeng jamiyatning belgisi qaysi javobda to‘g‘ri ko‘rsatilgan?",
+    "options": {
+      "A": "Diniy cheklovlarning ko‘pligi",
+      "B": "Turli e’tiqod vakillarining tinch-totuv yashashi",
+      "C": "Dinning siyosatdan ustunligi",
+      "D": "Diniy faollikning yo‘qligi"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 117,
+    "note": "To'g'ri javob: B. Ushbu siyosatning eng oliy natijasi — mamlakat taraqqiyoti uchun asos bo'ladigan barqaror va tinch muhitni yaratishdir.",
+    "question": "Millatlararo totuvlik va diniy bag‘rikenglikning yakuniy maqsadi nima?",
+    "options": {
+      "A": "Jamiyatni bir xillikka keltirish",
+      "B": "Barqaror, tinch va hamjihat jamiyatni barpo etish",
+      "C": "Milliy farqlarni yo‘qotish",
+      "D": "Diniy faoliyatni cheklash"
+    },
+    "answer": "B"
+  }
+]

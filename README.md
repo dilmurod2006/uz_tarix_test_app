@@ -1,2 +1,16 @@
 # uz_tarix_test_app
-O'zbekiston Eng Yangi tarixidan quiz app sessiyaga tayorlanish uchun qulay ilova.
+
+O'zbekiston eng yangi tarixi quiz app, sessiya uchun ishlab chiqilgan.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
